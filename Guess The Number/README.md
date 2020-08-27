@@ -6,4 +6,5 @@
 </p>
 
 <h2>What I Need To Play This Game</h2>
-<p></p>
+<p>First off all, we need Python Installed on our computer. It’s Most Important. Without Python You can’t RUN this Project on your computer. So, if you don’t know how to install and use Python Then You can go to this web page and read the post ( https://techvives.com/how-to-start-python-programming/ ).</p> <br>
+<p>But if you already installed Python on your computer, and now you want to play this. Then just copy all the given codes and paste it on a new .py file. And just RUN it...</p>
