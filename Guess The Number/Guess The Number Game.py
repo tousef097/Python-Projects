@@ -9,6 +9,7 @@ while True:
     n = int(input())
     if n == num :
         print("Congratulations , You have won the Game")
+        break
     elif n > num :
         print("Oh!! .You were close the answer,Let me give you a hint! , the answer is less than your number")
         if remaining_moves == 0 :
