@@ -13,12 +13,12 @@ while True:
     elif n > num :
         print("Oh!! .You were close the answer,Let me give you a hint! , the answer is less than your number")
         if remaining_moves == 0 :
-            print("Sorry , You don't have any moves left")
+            print(f"Sorry , You don't have any moves left, Answer was{num}")
             break
         print(f"Don't Worry you have {remaining_moves} moves left")
     else :
         print("Oh!! .You were close the answer,Let me give you a hint! , the answer is greater than your number")
         if remaining_moves == 0 :
-            print("Sorry , You don't have any moves left ")
+            print(f"Sorry , You don't have any moves left, Answer was {num} ")
             break
         print(f"Don't Worry you have {remaining_moves} moves left")
